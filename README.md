@@ -3,7 +3,7 @@
 # About Me
 - 😃 Web3/Blockchain Developer
 
-- Studied Electrical Engineering. Trained and worked in the field but I made a career switch to tech to purse my passion in blockchain development.
+- Studied Electrical Engineering and I like Digital Marketing. Trained and worked in the electrical field but I made a career switch to tech to purse my passion in blockchain development.
 - I like learning about new protocols and writing smart contracts.
 
 # Tech Stack
