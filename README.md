@@ -1,7 +1,7 @@
 # Hello, world 👋
 
 # About Me
-- 😃 Web3/Blockchain Developer
+- web3ist😃 and Web3/Blockchain Developer
 
 - Studied Electrical Engineering. Trained and worked in the electrical field but I made a career switch to tech to purse my passion in blockchain development.
 - I like learning about new protocols and writing smart contracts.
